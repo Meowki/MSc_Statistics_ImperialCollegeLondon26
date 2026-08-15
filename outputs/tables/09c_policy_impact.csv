@@ -1,0 +1,4 @@
+policy,param,a_covered_days,b_covered_days,labelled_days_total,a_alerts,b_alerts,jaccard
+fixed_threshold,0.005,7,5,18,61313,58109,0.44868077879541457
+fixed_threshold,0.001,3,3,18,10381,11027,0.2455925990574271
+topk_per_type,250.0,1,2,18,7500,7500,0.20048019207683074

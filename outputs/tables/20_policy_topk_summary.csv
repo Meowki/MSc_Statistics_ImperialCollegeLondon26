@@ -1,0 +1,11 @@
+variant,K,covered_days,labeled_days,rt_hits_labeled,total_alerts_labeled,alerts_per_day_eval
+global,10,0,18,0,300,10.0
+per_type,10,0,18,0,300,10.0
+global,50,0,18,0,1500,50.0
+per_type,50,1,18,2,1500,50.0
+global,100,0,18,0,3000,100.0
+per_type,100,1,18,2,3000,100.0
+global,500,1,18,1,15000,500.0
+per_type,500,1,18,2,15000,500.0
+global,1000,1,18,2,30000,1000.0
+per_type,1000,3,18,6,30000,1000.0

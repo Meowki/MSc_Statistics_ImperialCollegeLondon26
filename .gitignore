@@ -1,0 +1,32 @@
+# data
+data_refs/
+lanl/
+raw/
+# *.txt
+*.txt.gz
+# *.csv
+*.parquet
+
+# outputs
+# outputs/
+logs/
+# figures/
+plots/
+scratch/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+my_env/
+
+# system
+.DS_Store
+
+# credentials
+.env
+*.key
+*.pem

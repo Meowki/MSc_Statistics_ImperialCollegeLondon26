@@ -1,0 +1,14 @@
+account_type,region,target_burden,policy,cv_interp,nearest_observed_burden,labelled_days_hit,labelled_day_overlap
+human,low,300,topk_global,0.418,334.7142857142857,1.0,0.05555555555555555
+human,low,300,topk_per_type,0.0,250.0,1.0,0.05555555555555555
+human,low,300,controlled_rate_168h,0.612,479.2142857142857,4.0,0.2222222222222222
+human,low,300,qchart_ewma,0.625,321.0,0.0,0.0
+human,high,3000,fixed_global,0.736,2759.3571428571427,7.0,0.3888888888888889
+human,high,3000,fixed_stratified,0.548,2758.1428571428573,6.0,0.3333333333333333
+human,high,3000,qchart_ewma,0.746,1589.571428571429,1.0,0.05555555555555555
+machine,low,500,topk_global,0.249,665.2857142857143,,
+machine,low,500,topk_per_type,0.0,500.0,,
+machine,low,500,controlled_rate_168h,1.89,595.4285714285714,,
+machine,low,500,qchart_ewma,1.133,315.35714285714283,,
+machine,high,8000,fixed_global,0.802,6359.357142857143,,
+machine,high,8000,fixed_stratified,0.585,7169.571428571428,,
